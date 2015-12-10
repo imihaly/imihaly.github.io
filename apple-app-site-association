@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "EE5G66A6MX.tv.ustream.player",
+        "paths": [ "/channel-preview/*" ]
+      }
+    ]
+  }
+}
