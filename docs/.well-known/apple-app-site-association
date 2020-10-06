@@ -3,6 +3,12 @@
         "apps": [],
         "details": [
             {
+                "appID": "EE5G66A6MX.tv.ustream.align",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
                 "appID": "PETKK2G752.tv.ustream.align",
                 "paths": [
                     "*"
@@ -16,6 +22,7 @@
             },
             {
                 "appIDs": [
+                    "EE5G66A6MX.tv.ustream.align",
                     "PETKK2G752.tv.ustream.align",
                     "69AEJY3E9C.tv.ustream.align.internal"
                 ],
