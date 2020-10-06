@@ -1,15 +1,30 @@
 {
     "applinks": {
+        "apps": [],
         "details": [
-             {
-               "appIDs": [ "69AEJY3E9C.tv.ustream.align.internal" ],
-               "components": [
-                 {
-                    "/": "/buy/*",
-                    "comment": "Matches any URL whose path starts with /buy/"
-                 }
-               ]
-             }
-         ]
-     }
+            {
+                "appID": "PETKK2G752.tv.ustream.align",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "69AEJY3E9C.tv.ustream.align.internal",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appIDs": [
+                    "PETKK2G752.tv.ustream.align",
+                    "69AEJY3E9C.tv.ustream.align.internal"
+                ],
+                "components": [
+                    {
+                        "/": "*"
+                    }
+                ]
+            }
+        ]
+    }
 }
