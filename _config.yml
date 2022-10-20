@@ -1,0 +1,192 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Imre Mihály
+title: Senior Software Engineer
+email: imre.mihaly@gmail.com
+website: www.github.com/imihaly
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: facespics
+github_username:  imihaly
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: imre-mihaly-03921761
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: /images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+    My name is Imre Mihály. I'm a senior iOS developer at IBM.
+   
+    I spent most of my professional life developing iOS applications and SDKs for the same platform, but I'm flexible regarding platforms, programming languages, and paradigms.
+   
+    I'm most skilled in thinking before writing code and questioning my own solutions.
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: IBM Aviation
+        link: https://www.ibm.com/weather/industries/aviation
+        link_text: IBM Aviation
+        sub_title: Senior iOS Developer
+        caption: August 2022 - Present
+        description: | # this will include new lines to allow paragraphs
+            I work on [WSI Pilotbrief Optima](https://apps.apple.com/us/app/wsi-pilotbrief-optima/id442967560) application as part of a multinational team with members from the US, India, and Hungary. The application provides real-time weather and navigation information for pilots.
+            - Took over a twelve-year-old codebase written in Objective-C and Swift.
+            - Documented some of the core modules and refactored one of them.
+            
+            <mark>Objective-C</mark> <mark>Swift</mark> <mark>Fastlane</mark> <mark>Jenkins</mark>
+
+      - layout: left
+        title: IBM Budapest Lab
+        link: https://video.ibm.com
+        link_text: IBM Watsom Media
+
+        sub_title: Senior iOS Developer
+        caption: January 2016 - August 2022
+        description: | # this will include new lines to allow paragraphs
+            - I was part of the team adding a co-hosting feature to IBM's native macOS Video Streaming SDK. This feature allows the streamer to invite guest broadcasters into the stream.
+            - I was part of the team which created a live video player for the Fortnite World Cup. In the project's first stage, I created a development environment that allowed us to start working on the project without the powerful gaming PCs otherwise required to work on the Unreal Engine. I achieved this by extracting the components we needed from Unreal Engine and backing up their interface with simple, portable C++ implementations. This solution allowed us to work on the algorithmic problems and implement much of the HLS player logic before the gaming PCs arrived. As the project timeline was very tense, this time-gaining was essential for success. Our team received IBM's Outstanding Technical Achievement Award for this project.
+            - With a fellow developer created a configuration tool in Python for IBM Watson Media's [ECDN](https://support.video.ibm.com/hc/en-us/articles/115004692965-What-is-ECDN-) solution.
+            - I worked on codebase modularization using Cocoapods with private pods and later Swift Package Manager.
+            - I was part of the team evaluating possible third party chat solutions, and later I took part in the selected service's integration.
+      
+            <mark>Objective-C</mark> <mark>Swift</mark> <mark>C/C++</mark> <mark>Python</mark> <mark>Ruby</mark> <mark>Unreal Engine</mark> <mark>Fastlane</mark> <mark>Cocoapods</mark> <mark>Artifactory</mark> <mark>HTTP Live Streaming</mark>
+
+      - layout: left
+        title: Ustream
+        link: https://www.ustream.tv
+        link_text: ustream.tv
+
+        sub_title: Senior iOS Developer, Team Leader
+        caption: January 2011 - January 2016
+        description: | # this will include new lines to allow paragraphs
+            - I Worked on Ustream's iOS applications: Player App and Broadcaster App.
+            - I led Ustream's iOS team between Apr. 2011 and Apr. 2012.
+            - With a couple of fellow developers we created Ustream's [Broadcast for Friends](https://techcrunch.com/2012/08/16/ustreams-broadcast-for-friends-app-brings-live-iphone-video-to-facebook/?guce_referrer=aHR0cHM6Ly9zZWFyY2gudGVjaGNydW5jaC5jb20vY2xpY2svX3lsdD1Bd3JOWXV5bUlEMWpFdXdMaFZPbkJXVkg7X3lsdT1ZMjlzYndOaVpqRUVjRzl6QXpFRWRuUnBaQU1FYzJWakEzTmovUlY9Mi9SRT0xNjY0OTc5MjM4L1JPPTEwL1JVPWh0dHBzJTNhJTJmJTJmdGVjaGNydW5jaC5jb20lMmYyMDEyJTJmMDglMmYxNiUyZnVzdHJlYW1zLWJyb2FkY2FzdC1mb3ItZnJpZW5kcy1hcHAtYnJpbmdzLWxpdmUtaXBob25lLXZpZGVvLXRvLWZhY2Vib29rJTJmL1JLPTIvUlM9ak9Ka2J0VXRQZVFQNWpzSUJRS21RUmJ5THkwLT9fZ3VjX2NvbnNlbnRfc2tpcD0xNjY0OTUwNDc1&guce_referrer_sig=AQAAAHzF8YJdhuOrjYL9lXk4Mn-pnx6FIoSY2L5Uu15x1I1pbjucm6hvbuqY3Jjb5Ae-MZxjUU7l24n0saJModzIxprpoUwNMVrDy-SXpi5uUsSt75_wbDVCjZ3lKX1UmSawC-9Tc16kcqxZD4f9SK4LgIJdKntdROpDRdrYsd5zKEUt&_guc_consent_skip=1664950476) app. I was responsible for all client-side programming other than the video filter tools.
+            - With a fellow iOS developer, rewrote the iOS codebase. I introduced reactive programming and MVVM architecture. I wrote my own implementation of reactive components based on key-value observance and method swizzling. The goal of the rewrite was to have solid foundations under our applications. We used that framework after that for all of our applications and SDKs.
+            - Implemented an MP4 parser and produced H.264 encoded streams before Apple opened the API for it.
+            - Developed the complete broadcasting toolchain from capture to streaming over RTMP, including bandwidth regulation. Later we released broadcasting SDKs for [iOS](https://developers.video.ibm.com/broadcaster-sdk-ios/getting-started) and macOS based on this toolchain.
+            - Developed a modular playback toolset that supported playlists, ad integrations from different sources, analytics, and access control.
+            - Put together the first version of the [Ustream Player SDK](https://developers.video.ibm.com/player-sdk-ios/getting-started).
+      
+            <mark>Objective-C</mark> <mark>Agile/SRUMM</mark> <mark>Git</mark> <mark>Cocoapods</mark> <mark>Ruby</mark> <mark>Python</mark> <mark>Jenkins</mark> <mark>RTMP</mark> <mark>HTTP Live Streaming</mark>
+
+      - layout: left
+        title: Ustream
+        link: https://www.ustream.tv
+        link_text: ustream.tv
+
+        sub_title: BlackBerry Developer
+        caption: March 2010 - August 2010
+        description: | # this will include new lines to allow paragraphs
+            - Worked on the Ustream broadcaster app for the BlackBerry platform.
+            - Created a Java implementation of the RTMP protocol.
+            - BlackBerry's camera API didn't support video streaming back at that time. Created an ISO Base Media parser in Java and made video streaming possible on BlackBerry by recording short chunks of video and parsing them in the background.
+      
+            <mark>Java</mark> <mark>RTMP</mark> <mark>ISO Base Media Format</mark>
+
+      - layout: left
+        title: Space Software Studio
+        link: http://web.archive.org/web/20081217020442/http://www.spacesoftwarestudio.com:80/get.php?page=home
+        link_text: spacesoftwarestudio/com (web.archive)
+
+        sub_title: Java Developer, CEO
+        caption: January 2005 - March 2010
+        description: | # this will include new lines to allow paragraphs
+            - Developed mobile games for the Java Micro Edition platform and in-house tools, like map editors and resource converters in C++ and FLTK.
+            - Developed one of the earliest RTS games for Java-based mobile phones: [YERS](http://web.archive.org/web/20061128004136/http://www.spacesoftwarestudio.com/get.php?page=yers). The game idea was also mine.
+            - At the end of 2009, I developed my first iOS application by converting Java code to Objective-C using [Jikes](https://en.wikipedia.org/wiki/Jikes), an open-source Java compiler. I used it to generate the AST from the Java code and replaced the bytecode generator with an Objective-C code generator. It supported just a subset of the Java language.
+            - Between January 2007 and March 2010, I operated as CEO and lead developer in this company with three employees.
+      
+            <mark>Java</mark> <mark>C/C++</mark> <mark>Linux</mark> <mark>SVN</mark>
+
+      - layout: left
+        title: SAER Romania
+        link: http://web.archive.org/web/20050312021421/http://www.saer.ro/en/index.html
+        link_text: saer.ro (web.archive)
+
+        sub_title: Visual Basic Developer
+        caption: January 2004 - December 2004
+        description: | # this will include new lines to allow paragraphs
+            - Worked on Customer Relationship Management (CRM) application's frontend in Visual Basic.
+
+            <mark>Visual Basic</mark> <mark>SQL</mark>
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Babeș-Bolyai University in Cluj-Napoca
+        caption: 1999 - 2003
+        sub_title: BSc Mathematics and Computer Science
+        description: | # this will include new lines to allow paragraphs
+            During my time at University, I was in an inspiring community, including bright programmers and even brighter mathematicians. They influenced me to have an analytical, scientific approach to development and programming problems. I also got my first real-world, paid coding experience on RentACoder.com.
+
+  - title: Languages # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Hungarian
+        sub_title: Native or bilingual proficiency
+      - layout: left
+        title: English
+        sub_title: Professional working proficiency
+      - layout: left
+        title: Romanian
+        sub_title: Limited working proficiency
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in software engineering, some of my other interests and hobbies are:
+      - My family
+      - Playing and programming chess
+      - Reading about physics, history, politics
+
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
