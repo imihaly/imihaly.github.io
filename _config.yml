@@ -66,23 +66,29 @@ content:
         description: | # this will include new lines to allow paragraphs
             I work on [WSI Pilotbrief Optima](https://apps.apple.com/us/app/wsi-pilotbrief-optima/id442967560) application as part of a multinational team with members from the US, India, and Hungary. The application provides real-time weather and navigation information for pilots.
             - Took over a twelve-year-old codebase written in Objective-C and Swift.
-            - Documented some of the core modules and refactored one of them.
+            - Documented core modules and refactored a couple of them.
+            - Developed new features like SkyPath and Surface Analysis layers.
+            - Took part in the hiring process as a technical interviewer.
+            - Assisted junior developers.
+            - Managed the 2023.1 release of the application.
+            - Managed the CI system: Fastlane + Jenkins.
+            - Assisted in security scans and COO (Certificate of originality) approval.
             
             <mark>Objective-C</mark> <mark>Swift</mark> <mark>Fastlane</mark> <mark>Jenkins</mark>
 
       - layout: left
         title: IBM Budapest Lab
         link: https://video.ibm.com
-        link_text: IBM Watsom Media
+        link_text: IBM Watson Media
 
         sub_title: Senior iOS Developer
         caption: January 2016 - August 2022
         description: | # this will include new lines to allow paragraphs
             - I was part of the team adding a co-hosting feature to IBM's native macOS Video Streaming SDK. This feature allows the streamer to invite guest broadcasters into the stream.
-            - I was part of the team which created a live video player for the Fortnite World Cup. In the project's first stage, I created a development environment that allowed us to start working on the project without the powerful gaming PCs otherwise required to work on the Unreal Engine. I achieved this by extracting the components we needed from Unreal Engine and backing up their interface with simple, portable C++ implementations. This solution allowed us to work on the algorithmic problems and implement much of the HLS player logic before the gaming PCs arrived. As the project timeline was very tense, this time-gaining was essential for success. Our team received IBM's Outstanding Technical Achievement Award for this project.
+            - I was part of the team that created a live video player for the Fortnite World Cup. In the project's first stage, I created a development environment that allowed us to start working on the project without the powerful gaming PCs otherwise required to work on the Unreal Engine. I achieved this by extracting the components we needed from Unreal Engine and backing up their interface with simple, portable C++ implementations. This solution allowed us to work on the algorithmic problems and implement much of the HLS player logic before the gaming PCs arrived. As the project timeline was very tense, this time-gaining was essential for success. Our team received IBM's Outstanding Technical Achievement Award for this project.
             - With a fellow developer created a configuration tool in Python for IBM Watson Media's [ECDN](https://support.video.ibm.com/hc/en-us/articles/115004692965-What-is-ECDN-) solution.
             - I worked on codebase modularization using Cocoapods with private pods and later Swift Package Manager.
-            - I was part of the team evaluating possible third party chat solutions, and later I took part in the selected service's integration.
+            - I was part of the team evaluating possible third-party chat solutions and later took part in integrating the selected service.
       
             <mark>Objective-C</mark> <mark>Swift</mark> <mark>C/C++</mark> <mark>Python</mark> <mark>Ruby</mark> <mark>Unreal Engine</mark> <mark>Fastlane</mark> <mark>Cocoapods</mark> <mark>Artifactory</mark> <mark>HTTP Live Streaming</mark>
 
@@ -96,10 +102,10 @@ content:
         description: | # this will include new lines to allow paragraphs
             - I Worked on Ustream's iOS applications: Player App and Broadcaster App.
             - I led Ustream's iOS team between Apr. 2011 and Apr. 2012.
-            - With a couple of fellow developers we created Ustream's [Broadcast for Friends](https://techcrunch.com/2012/08/16/ustreams-broadcast-for-friends-app-brings-live-iphone-video-to-facebook/?guce_referrer=aHR0cHM6Ly9zZWFyY2gudGVjaGNydW5jaC5jb20vY2xpY2svX3lsdD1Bd3JOWXV5bUlEMWpFdXdMaFZPbkJXVkg7X3lsdT1ZMjlzYndOaVpqRUVjRzl6QXpFRWRuUnBaQU1FYzJWakEzTmovUlY9Mi9SRT0xNjY0OTc5MjM4L1JPPTEwL1JVPWh0dHBzJTNhJTJmJTJmdGVjaGNydW5jaC5jb20lMmYyMDEyJTJmMDglMmYxNiUyZnVzdHJlYW1zLWJyb2FkY2FzdC1mb3ItZnJpZW5kcy1hcHAtYnJpbmdzLWxpdmUtaXBob25lLXZpZGVvLXRvLWZhY2Vib29rJTJmL1JLPTIvUlM9ak9Ka2J0VXRQZVFQNWpzSUJRS21RUmJ5THkwLT9fZ3VjX2NvbnNlbnRfc2tpcD0xNjY0OTUwNDc1&guce_referrer_sig=AQAAAHzF8YJdhuOrjYL9lXk4Mn-pnx6FIoSY2L5Uu15x1I1pbjucm6hvbuqY3Jjb5Ae-MZxjUU7l24n0saJModzIxprpoUwNMVrDy-SXpi5uUsSt75_wbDVCjZ3lKX1UmSawC-9Tc16kcqxZD4f9SK4LgIJdKntdROpDRdrYsd5zKEUt&_guc_consent_skip=1664950476) app. I was responsible for all client-side programming other than the video filter tools.
+            - With a couple of fellow developers, we created Ustream's [Broadcast for Friends](https://techcrunch.com/2012/08/16/ustreams-broadcast-for-friends-app-brings-live-iphone-video-to-facebook/?guce_referrer=aHR0cHM6Ly9zZWFyY2gudGVjaGNydW5jaC5jb20vY2xpY2svX3lsdD1Bd3JOWXV5bUlEMWpFdXdMaFZPbkJXVkg7X3lsdT1ZMjlzYndOaVpqRUVjRzl6QXpFRWRuUnBaQU1FYzJWakEzTmovUlY9Mi9SRT0xNjY0OTc5MjM4L1JPPTEwL1JVPWh0dHBzJTNhJTJmJTJmdGVjaGNydW5jaC5jb20lMmYyMDEyJTJmMDglMmYxNiUyZnVzdHJlYW1zLWJyb2FkY2FzdC1mb3ItZnJpZW5kcy1hcHAtYnJpbmdzLWxpdmUtaXBob25lLXZpZGVvLXRvLWZhY2Vib29rJTJmL1JLPTIvUlM9ak9Ka2J0VXRQZVFQNWpzSUJRS21RUmJ5THkwLT9fZ3VjX2NvbnNlbnRfc2tpcD0xNjY0OTUwNDc1&guce_referrer_sig=AQAAAHzF8YJdhuOrjYL9lXk4Mn-pnx6FIoSY2L5Uu15x1I1pbjucm6hvbuqY3Jjb5Ae-MZxjUU7l24n0saJModzIxprpoUwNMVrDy-SXpi5uUsSt75_wbDVCjZ3lKX1UmSawC-9Tc16kcqxZD4f9SK4LgIJdKntdROpDRdrYsd5zKEUt&_guc_consent_skip=1664950476) app. I was responsible for all client-side programming other than the video filter tools.
             - With a fellow iOS developer, rewrote the iOS codebase. I introduced reactive programming and MVVM architecture. I wrote my own implementation of reactive components based on key-value observance and method swizzling. The goal of the rewrite was to have solid foundations under our applications. We used that framework after that for all of our applications and SDKs.
-            - Implemented an MP4 parser and produced H.264 encoded streams before Apple opened the API for it.
-            - Developed the complete broadcasting toolchain from capture to streaming over RTMP, including bandwidth regulation. Later we released broadcasting SDKs for [iOS](https://developers.video.ibm.com/broadcaster-sdk-ios/getting-started) and macOS based on this toolchain.
+            - Implemented an MP4 parser and produced H.264 encoded streams before Apple opened the API.
+            - Developed the complete broadcasting toolchain from capture to streaming over RTMP, including bandwidth regulation. Later, we released broadcasting SDKs for [iOS](https://developers.video.ibm.com/broadcaster-sdk-ios/getting-started) and macOS based on this toolchain.
             - Developed a modular playback toolset that supported playlists, ad integrations from different sources, analytics, and access control.
             - Put together the first version of the [Ustream Player SDK](https://developers.video.ibm.com/player-sdk-ios/getting-started).
       
@@ -154,7 +160,7 @@ content:
         caption: 1999 - 2003
         sub_title: BSc Mathematics and Computer Science
         description: | # this will include new lines to allow paragraphs
-            During my time at University, I was in an inspiring community, including bright programmers and even brighter mathematicians. They influenced me to have an analytical, scientific approach to development and programming problems. I also got my first real-world, paid coding experience on RentACoder.com.
+            At University, I was in an inspiring community, including bright programmers and even brighter mathematicians. They influenced my analytical approach to development and programming problems. I also got my first real-world, paid coding experience on RentACoder.com.
 
   - title: Languages # Title for the section
     layout: list # Type of content section (list/text)
@@ -175,6 +181,8 @@ content:
       Alongside my interests in software engineering, some of my other interests and hobbies are:
       - My family
       - Playing and programming chess
+          - [FIDE Profile](https://ratings.fide.com/profile/793930)
+          - [A pet project](https://github.com/imihaly/chessbox)
       - Reading about physics, history, politics
 
 # Footer
