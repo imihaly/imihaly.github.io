@@ -58,23 +58,40 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: The Weather Company
+        link: https://www.weathercompany.com/
+        link_text: The Weather Company
+        sub_title: Senior iOS Developer
+        caption: February 2024 - Present
+        description: | # this will include new lines to allow paragraphs
+            Continued working on [WSI Pilotbrief Optima](https://apps.apple.com/us/app/wsi-pilotbrief-optima/id442967560) application as part of a multinational team with members from the US, India, and Hungary. The application provides real-time weather and navigation information for pilots.
+            - Took part in the hiring process as a technical interviewer.
+            - Assisted junior developers.
+            - Managed the 2024.1 and 2024.2 releases of the application.
+            - Gradually improved and modernised the codebase by refactoring critical components and shaping the architecture.
+            - Managed the CI system: Fastlane + Jenkins.
+            - Assisted in security scans and COO (Certificate of originality) approval.
+            
+             <mark>Agile/SRUMM</mark> <mark>Objective-C</mark> <mark>Swift</mark> <mark>Fastlane</mark> <mark>Jenkins</mark> <mark>Checkmarx</mark>
+
+      - layout: left
         title: IBM Aviation
         link: https://www.ibm.com/weather/industries/aviation
         link_text: IBM Aviation
         sub_title: Senior iOS Developer
-        caption: August 2022 - Present
+        caption: August 2022 - February 2024
         description: | # this will include new lines to allow paragraphs
-            I work on [WSI Pilotbrief Optima](https://apps.apple.com/us/app/wsi-pilotbrief-optima/id442967560) application as part of a multinational team with members from the US, India, and Hungary. The application provides real-time weather and navigation information for pilots.
+            I was working on [WSI Pilotbrief Optima](https://apps.apple.com/us/app/wsi-pilotbrief-optima/id442967560) application as part of a multinational team with members from the US, India, and Hungary. The application provides real-time weather and navigation information for pilots.
             - Took over a twelve-year-old codebase written in Objective-C and Swift.
             - Documented core modules and refactored a couple of them.
             - Developed new features like SkyPath and Surface Analysis layers.
             - Took part in the hiring process as a technical interviewer.
             - Assisted junior developers.
-            - Managed the 2023.1 release of the application.
+            - Managed the 2023.1 and 2023.2 releases of the application.
             - Managed the CI system: Fastlane + Jenkins.
             - Assisted in security scans and COO (Certificate of originality) approval.
             
-            <mark>Objective-C</mark> <mark>Swift</mark> <mark>Fastlane</mark> <mark>Jenkins</mark>
+             <mark>Agile/SRUMM</mark> <mark>Objective-C</mark> <mark>Swift</mark> <mark>Fastlane</mark> <mark>Jenkins</mark>
 
       - layout: left
         title: IBM Budapest Lab
@@ -90,7 +107,7 @@ content:
             - I worked on codebase modularization using Cocoapods with private pods and later Swift Package Manager.
             - I was part of the team evaluating possible third-party chat solutions and later took part in integrating the selected service.
       
-            <mark>Objective-C</mark> <mark>Swift</mark> <mark>C/C++</mark> <mark>Python</mark> <mark>Ruby</mark> <mark>Unreal Engine</mark> <mark>Fastlane</mark> <mark>Cocoapods</mark> <mark>Artifactory</mark> <mark>HTTP Live Streaming</mark>
+             <mark>Agile/SRUMM</mark> <mark>Objective-C</mark> <mark>Swift</mark> <mark>C/C++</mark> <mark>Python</mark> <mark>Ruby</mark> <mark>Unreal Engine</mark> <mark>Fastlane</mark> <mark>Cocoapods</mark> <mark>Artifactory</mark> <mark>HTTP Live Streaming</mark>
 
       - layout: left
         title: Ustream
