@@ -64,9 +64,10 @@ content:
         sub_title: Senior iOS Developer
         caption: February 2024 - Present
         description: | # this will include new lines to allow paragraphs
-            Continued working on [WSI Pilotbrief Optima](https://apps.apple.com/us/app/wsi-pilotbrief-optima/id442967560) application as part of a multinational team with members from the US, India, and Hungary. The application provides real-time weather and navigation information for pilots.
+            Working on [WSI Pilotbrief Optima](https://apps.apple.com/us/app/wsi-pilotbrief-optima/id442967560) application as part of a multinational team with members from the US, India, and Hungary. The application provides real-time weather and navigation information for pilots.
             - Took part in the hiring process as a technical interviewer.
             - Assisted junior developers.
+            - Developed new features for the application.
             - Managed the 2024.1 and 2024.2 releases of the application.
             - Gradually improved and modernized the codebase by refactoring critical components and shaping the architecture.
             - Managed the CI system: Fastlane + Jenkins.
