@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    My name is Imre Mihály. I'm a senior iOS developer at IBM.
+    My name is Imre Mihály. I'm a senior iOS developer at [The Weather Company](https://www.weathercompany.com/).
    
     I spent most of my professional life developing iOS applications and SDKs for the same platform, but I'm flexible regarding platforms, programming languages, and paradigms.
    
